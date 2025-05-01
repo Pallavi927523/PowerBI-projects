@@ -1,4 +1,4 @@
-# PowerBI-projects
+# PowerBI-project
 # HR Analytics Dashboard - Power BI
 
 This project is an interactive HR analytics dashboard built using Power BI. It provides insights into various HR metrics such as department, gender, age, job role, and satisfaction levels.

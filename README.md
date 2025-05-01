@@ -17,7 +17,7 @@ This project is an interactive HR analytics dashboard built using Power BI. It p
 
 ## 📎 Files Included
 - `HR_Analytics_Dashboard.pbix` - Power BI project file
-- `dashboard_screenshot.png` - Snapshot of the final dashboard
+- `dashboard_screenshot.pdf` - Snapshot of the final dashboard
 - `README.md` - Project overview
 
 ## 📥 How to View the Dashboard
